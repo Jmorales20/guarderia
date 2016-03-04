@@ -1,0 +1,80 @@
+body {
+  background-image: url(../img/fondodegradado.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-weight: 400;
+}
+
+.logo {
+  height: 40px;
+}
+
+.centro {
+  position: absolute;
+		top:65%;
+		left:27%;
+		width:600px;
+		height:900px;
+		margin-top:-150px;
+		border:1px solid #808080;
+		padding:5px;
+    background-color: ##E0ECF8;
+}
+
+.titulonube {
+    position: absolute;
+    top:10%;
+    left:45%;
+    width:500px;
+    margin-left:-200px;
+    height:253px;
+    background-image: url(../img/nube2.png);
+}
+
+.imagen {
+  margin-top: 25%;
+  height: 90px;
+}
+
+.nuberosa {
+  position: absolute;
+  background-image: url(../img/nuberosa1.png);
+  top:40%;
+  left:76%;
+  width:245px;
+  height:145px;
+  padding-top: 65px;
+}
+
+.nubevioleta {
+  position: absolute;
+  background-image: url(../img/nubevioleta.png);
+  top:40%;
+  left:4%;
+  width:245px;
+  height:145px;
+  padding-top: 65px;
+}
+
+.derecha {
+  width:245px;
+  height:145px;
+  left:64%;
+}
+
+.footer {
+	width: 100%;
+	height: 200px;
+	background: #333;
+	border-top: 2px solid #000;
+	position: absolute;
+	bottom: 0;
+}
+
+p {
+  font-family: 'Slabo 27px', serif;
+  font-weight: 400;
+}
